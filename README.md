@@ -83,4 +83,4 @@ Open:
 ---
 
 
-Built as part of FastAPI Internship Training at **Innomatics Research Labs**
+Built as part of Agentic AI Internship  at **Innomatics Research Labs**
